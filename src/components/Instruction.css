@@ -1,0 +1,21 @@
+.instruction {
+	background-color: #cfd8dc;
+	width: 1000px;
+	margin: 20px 0;
+	padding: 20px;
+	border: 1px solid black;
+}
+
+.instruction div {
+	display: grid;
+	justify-content: center;
+	margin: 20px;
+}
+
+.instruction img {
+	width: 500px;
+}
+
+.instruction p {
+	font-size: 1.5rem;
+}

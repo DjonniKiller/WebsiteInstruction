@@ -1,0 +1,7 @@
+.instruction-list {
+	display: grid;
+	background-color: #b0bec5;
+	list-style: none;
+	padding: 20px;
+	justify-content: center;
+}
